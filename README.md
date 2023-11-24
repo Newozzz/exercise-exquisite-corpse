@@ -4,7 +4,7 @@ Mais il aurait du plus se méfier de la **force de ce virus** Alex n'y vint pas 
 Son équipage, va directement partir à sa recherche et ce qu'ils vont trouvés dans ce ~~virus~~ vont les **choqués**...
 
 Pour la première fois, l'équipage se retrouvait face à l'inconnue la plus totale. Plus les recherches avancais, plus il semblait que ce virus n'était pas l'imité au numérique. 
-Les sources semblaient pointer une même théorie, même ci celle-ci semblait flle : 
+Les sources semblaient pointer une même théorie, même ci celle-ci semblait folle : 
 **le virus contaminait machines et humains**
 
 Les humains contaminé par ce virus eurent de nombreux symptômes tels que : 
@@ -16,3 +16,8 @@ Les humains contaminé par ce virus eurent de nombreux symptômes tels que :
  - ect.. 
 
 L'équipage était stupéfait par la découverte que le virus informatique qu'ils traquaient avait des ramifications bien au-delà du **cyberspace**. Les indices et les données recueillies laissaient entrevoir une propagation étonnante : le virus avait réussi à **<span style="color:red">s'introduire dans des systèmes biologiques humains</span>**, affectant également les machines interconnectées.
+Face à ce **virus** deux solutions:
+ 1. l'annihilation de toute la technologie existante
+>> 2.ou celle de l'hummanité.
+
+>Qui en fera le **choix**?
