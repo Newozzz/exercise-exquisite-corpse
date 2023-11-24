@@ -7,3 +7,11 @@ Pour la première fois, l'équipage se retrouvait face à l'inconnue la plus tot
 Les sources semblaient pointer une même théorie, même ci celle-ci semblait flle : 
 **le virus contaminait machines et humains**
 
+Les humains contaminé par ce virus eurent de nombreux symptômes tels que : 
+
+ - forte fièvre, 
+ - nausée, 
+ - perte de conscience,
+ - trouble visuel et auditif,
+ - ect.. 
+
