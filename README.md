@@ -15,3 +15,4 @@ Les humains contaminé par ce virus eurent de nombreux symptômes tels que :
  - trouble visuel et auditif,
  - ect.. 
 
+L'équipage était stupéfait par la découverte que le virus informatique qu'ils traquaient avait des ramifications bien au-delà du **cyberspace**. Les indices et les données recueillies laissaient entrevoir une propagation étonnante : le virus avait réussi à **<span style="color:red">s'introduire dans des systèmes biologiques humains</span>**, affectant également les machines interconnectées.
